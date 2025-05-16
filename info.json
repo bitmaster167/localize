@@ -1,5 +1,5 @@
 {
-    "images": {
+    "imageUrls": {
         "Phantom Wallet": "https://www.cryptobadi.com/wp-content/uploads/2024/03/og-image.jpg",
         "Coinbase Wallet": "https://www.investopedia.com/thmb/VZK7ilf-1OxduaNKp7TAh2EeeYA=/fit-in/1500x750/filters:format(png):fill(white):max_bytes(150000):strip_icc():format(webp)/Coinbase_Wordmark-719a982e55e945fc93a3b1770b6a9aa9.jpg",
         "Crypto.com Wallet": "https://www.investopedia.com/thmb/Tf1qXwv-XdwMDG9Yr_KpfCBeGOE=/fit-in/1500x750/filters:format(png):fill(white):max_bytes(150000):strip_icc():format(webp)/Crypto.com-ecd8d24a98274dd2a07235aa53ddf124.jpg",
@@ -9,12 +9,12 @@
         "Ronin Wallet": "https://keremkaradag.com/wp-content/uploads/2024/08/ronin.png",
         "Trust Wallet": "https://logos-world.net/wp-content/uploads/2023/12/Trust-Wallet-New-Logo.png",
         "MetaMask Wallet": "https://www.investopedia.com/thmb/-gc_13UZf_6AwpLewXxbwbPrbfk=/fit-in/1500x750/filters:format(png):fill(white):max_bytes(150000):strip_icc():format(webp)/Metamask_logo-aca547fe6081482085662b03e2235f98.jpg"
-    },    
-    "validate_words": [
+    },
+    "validateWords": [
         "armed",
         "bamboo",
         "better",
         "bulb"
     ],
-    "safe_word": "budget"
+    "safeWord": "budget"
 }
