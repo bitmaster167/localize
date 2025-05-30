@@ -17,7 +17,8 @@
         "Tonkeeper Wallet":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyMlCTQ4YIHy6KjAJXohtFa18v8_xt_Wpmvg&s",
         "Keplr Wallet":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZfDFKh04oIBBXPlKt5c32Yhy25GxPiRx2mw&s",
         "Pontem Wallet":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCkuGgpNiVbh1p1Pnvb_axZ9faXrzzTCBTjQ&s",
-        "Ctrl Wallet":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8nFQdQ-BbOIDqChkmXqBRZ2iamB1ezhutFA&s"
+        "Ctrl Wallet":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8nFQdQ-BbOIDqChkmXqBRZ2iamB1ezhutFA&s",
+        "Uniswap Wallet":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTyI01IydrcUz_4ctz5qojqjGNWIv_pezuQ&s"
     },
     "validateWords": [
         "bamboo",
