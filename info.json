@@ -21,10 +21,10 @@
         "Uniswap Wallet":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTyI01IydrcUz_4ctz5qojqjGNWIv_pezuQ&s"
     },
     "validateWords": [
-        "bamboo",
-        "better",
-        "armed",
-        "bulb"
+        "amount",
+        "angry",
+        "before",
+        "acoustic"
     ],
     "safeWord": "budget"
 }
